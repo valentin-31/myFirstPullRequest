@@ -1,4 +1,4 @@
-public class SoyElSegundoArchivo {
+public class CuentaRegresiva {
     public static void main(String[] args) {
 
         System.out.println("Soy el segundo archivo, ahora cuento desde 10 al 1 (?");
